@@ -47,5 +47,4 @@ b) Remova um cliente pelo seu ID.
 Exercício 8:
 Crie uma segunda tabela chamada compras com os campos: id (chave primária), cliente_id (chave estrangeira referenciando o id da tabela clientes), produto (texto) e valor (real). Insira algumas compras associadas a clientes existentes na tabela clientes. Escreva uma consulta para exibir o nome do cliente, o produto e o valor de cada compra.
 
-Este modelo de README fornece um resumo claro dos exercícios propostos, dividindo-os por seções para facilitar a leitura e o entendimento. Adapte este modelo conforme necessário para atender às especificações exatas dos seus exercícios de banco de dados.
 
